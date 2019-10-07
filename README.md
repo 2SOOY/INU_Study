@@ -7,7 +7,7 @@
 
 ### pull request 과정
 1. clone 하기 `git clone 해당 레피지토리`
-2. 자신만의 branch 생성하기 `git branch (your branch name)`
+2. 자신만의 branch 생성하기 `git branch (your branch name)` + `git checkout (your branch name)`
 3. 작업 후 add & commit 커밋 메시지는 명료하게 `git add .` + `git commit -m "solve hash 01"`
 4. **주의** push하기 `git push origin 본인의 브랜치`
   -> git push origin master ( X )
