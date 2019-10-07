@@ -20,6 +20,6 @@
 + branch namimg
   + `name_week #` ex) sooyeon_week1
 
-본인이 이름의 폴더에서만 작업
++ 본인이 이름의 폴더에서만 작업
 
 + 해당 주 스터디 종료 후 branch merge하기
