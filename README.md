@@ -13,6 +13,7 @@
   -> git push origin master ( X )
 5. pull request 생성 후 정리하기 및 다른 팀원들과 의견 나누기
   -> 상단의 `pull request` 클릭 open을 통해 풀리퀘 생성
+**6. 다음 주차 작업시에는 반드시 `git checkout master`을 이용하여 이동한 후 branch를 생성한다.**
 
 
 ### RULE
